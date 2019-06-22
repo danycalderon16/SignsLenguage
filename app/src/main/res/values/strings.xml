@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignsLanguage</string>
+    <string name="text_1">Select the course mode</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="numbers">Numbers</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="back">Back</string>
+    <string name="letter">Letter </string>
+    <string name="number">Number </string>
+    <string name="phrases">Phrases</string>
+    <string name="comming_soon">comming_soon</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lenguaje de Señas</string>
+    <string name="alphabet">Alfabeto</string>
+    <string name="back">Regresar</string>
+    <string name="main_menu">Menu Principal</string>
+    <string name="numbers">Numeros</string>
+    <string name="text_1">Selecciona el modo de curso</string>
+    <string name="letter">Letra </string>
+    <string name="number">Numero</string>
+    <string name="phrases">Frases</string>
+    <string name="comming_soon">Proximamente</string>
+
+</resources>

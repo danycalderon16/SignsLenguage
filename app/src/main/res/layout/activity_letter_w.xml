@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.application.calderon.SignsLanguage.com.application.calderon.SignsLenguage.SignsLenguage.Images.LetterW">
+
+
+    <include android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <android.support.design.widget.CheckableImageButton
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".4"
+            android:layout_margin="20dp"
+            android:id="@+id/imageButtonLetter_w"/>
+
+
+        <TextView
+            android:id="@+id/textViewLetterSelect_w"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight=".4"
+            android:gravity="center"
+            android:text="a"
+            android:textSize="42dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
